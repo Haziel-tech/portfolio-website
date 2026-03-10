@@ -1,4 +1,4 @@
-![Portfolio Screenshot](pf.png)
+![Portfolio Screenshot](/portfolio-website-main/portofolio2-main/protfile/images/pf.png)
 
 # 🌌 Haziel Portfolio Website
 
