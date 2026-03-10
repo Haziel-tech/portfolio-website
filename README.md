@@ -1,5 +1,3 @@
-![Portfolio Screenshot](/portfolio-website-main/portofolio2-main/protfile/images/pf.png)
-
 # 🌌 Haziel Portfolio Website
 
 Bem vindo ao meu **portfolio website**, Uma vitrine moderna dos meus projetos, habilidades e informações de contato.
